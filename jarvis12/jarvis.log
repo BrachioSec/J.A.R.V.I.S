@@ -1,0 +1,4 @@
+
+2025-09-22 13:26:07,838 - ERROR - Speech recognition init error: No Default Input Device Available
+2025-09-22 13:26:07,839 - INFO - Database initialized
+2025-09-22 13:26:08,030 - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
