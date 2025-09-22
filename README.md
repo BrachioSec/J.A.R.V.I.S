@@ -35,7 +35,7 @@
 
 ### Required Software
 - Python 3.8 or higher  
-- Ollama  
+- Ollama(The ollama model must be running on the background I use llama 3 so fort me its ollama run llama3)  
 
 ### Python Packages
 ```bash
