@@ -59,5 +59,5 @@ cd jarvis
 2. Install the prerequisites
 3. Run JARVIS
 ```bash
-python J.A.R.V.I.S
+python jarvis
 ```
